@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo3\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|solutionrelative:demo3\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|solutionrelative:demo3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EA0AA6-E227-434B-9C10-AD17C600C053}|Demo3\\Demo3.csproj|solutionrelative:demo3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E742C108-53E6-41D4-955C-FA83F2B4D8D4}|Demo1\\Demo1.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E742C108-53E6-41D4-955C-FA83F2B4D8D4}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552A01BC-04E6-4F55-804E-EB944682DCBA}|Demo2\\Demo2.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552A01BC-04E6-4F55-804E-EB944682DCBA}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552A01BC-04E6-4F55-804E-EB944682DCBA}|Demo2\\Demo2.csproj|c:\\users\\tynco\\downloads\\demo1\\demo1\\demo2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552A01BC-04E6-4F55-804E-EB944682DCBA}|Demo2\\Demo2.csproj|solutionrelative:demo2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Teacher.cs",
+              "RelativeDocumentMoniker": "Demo3\\Teacher.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Teacher.cs",
+              "RelativeToolTip": "Demo3\\Teacher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:44:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Person.cs",
+              "RelativeDocumentMoniker": "Demo3\\Person.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Person.cs",
+              "RelativeToolTip": "Demo3\\Person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:39:50.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Student.cs",
+              "RelativeDocumentMoniker": "Demo3\\Student.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Student.cs",
+              "RelativeToolTip": "Demo3\\Student.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:38:23.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:32:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo2\\Student.cs",
+              "RelativeDocumentMoniker": "Demo2\\Student.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo2\\Student.cs",
+              "RelativeToolTip": "Demo2\\Student.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:23:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwFAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:23:15.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\tynco\\Downloads\\Demo1\\Demo1\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:07:39.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

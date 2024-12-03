@@ -1,0 +1,7 @@
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\bin\Debug\Demo1.exe
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\obj\Debug\Demo1.exe
+C:\Users\tynco\Downloads\Demo1\Demo1\Demo1\obj\Debug\Demo1.pdb
